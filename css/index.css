@@ -1,0 +1,34 @@
+/* Body */
+#parent {
+  font-family: arial;
+}
+
+/* Navbar & Logo */
+#logo {
+  border-radius: 50%;
+}
+
+.logo-text {
+  font-family: "Audiowide", cursive;
+  color: #53512A;
+}
+
+.navbar {
+  background-color: #FEB100;
+}
+
+/* Card Config */
+.card-link {
+  text-decoration-line: none;
+}
+
+.card-text {
+  font-size: 10px;
+}
+
+/* Footer */
+.footer {
+  background-color: #FEB100;
+  color: #53512A;
+  font-size: 10px;
+}
