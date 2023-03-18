@@ -1,7 +1,9 @@
+/* Body */
 #parent {
   font-family: arial;
 }
 
+/* Navbar & Logo */
 #logo {
   border-radius: 50%;
 }
@@ -15,15 +17,19 @@
   background-color: #FEB100;
 }
 
+/* Others */
 .time, figcaption {
   font-weight: 200;
-}
-
-.center {
-  text-align: center;
 }
 
 .top-image {
   width: 100%;
   height: auto;
+}
+
+/* Footer */
+.footer {
+  background-color: #FEB100;
+  color: #53512A;
+  font-size: 10px;
 }
