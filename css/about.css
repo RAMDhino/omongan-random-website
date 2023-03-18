@@ -1,0 +1,16 @@
+#parent {
+  font-family: arial;
+}
+
+#logo {
+  border-radius: 50%;
+}
+
+.logo-text {
+  font-family: "Audiowide", cursive;
+  color: #53512A;
+}
+
+.navbar {
+  background-color: #FEB100;
+}
