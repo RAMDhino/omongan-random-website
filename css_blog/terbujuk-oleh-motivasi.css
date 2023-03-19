@@ -17,6 +17,19 @@
   background-color: #FEB100;
 }
 
+/* Toolbar */
+#toolbar {
+  background-color: #53512A;
+}
+
+#toolbar a {
+  color: white;
+}
+
+#toolbar a:active {
+  color: #FEB100;
+}
+
 /* Others */
 .time, figcaption {
   font-weight: 200;
