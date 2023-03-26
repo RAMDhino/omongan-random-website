@@ -45,3 +45,9 @@
   color: #53512A;
   font-size: 10px;
 }
+
+/* Toggle Dark */
+.toggle-dark-class {
+  background-color: #101417;
+  color: white;
+}
