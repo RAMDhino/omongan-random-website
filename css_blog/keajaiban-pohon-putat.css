@@ -1,0 +1,54 @@
+/* Body */
+#parent {
+  font-family: arial;
+}
+
+/* Navbar & Logo */
+#logo {
+  border-radius: 50%;
+}
+
+.logo-text {
+  font-family: "Audiowide", cursive;
+  color: #53512A;
+}
+
+.navbar {
+  background-color: #FEB100;
+}
+
+/* Toolbar */
+#toolbar {
+  background-color: #53512A;
+}
+
+#toolbar a {
+  color: white;
+}
+
+#toolbar a:active {
+  color: #FEB100;
+}
+
+/* Others */
+.time, figcaption {
+  font-weight: 200;
+}
+
+.top-image {
+  width: 100%;
+  height: auto;
+}
+
+/* Footer */
+.footer {
+  background-color: #FEB100;
+  color: #53512A;
+  font-size: 10px;
+}
+
+/* Toggle Dark */
+.toggle-dark-class {
+  background-color: #101417;
+  color: white;
+}
