@@ -1,2 +1,2 @@
 # omongan-random-website
-This is my own website!
+This is my first dummy website!
